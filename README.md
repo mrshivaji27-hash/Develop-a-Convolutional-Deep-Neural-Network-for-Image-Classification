@@ -249,4 +249,3 @@ predict_image(model, image_index=85, dataset=test_dataset)
 ## RESULT
 Thus , a convolutional deep neural network (CNN) for image classification and to verify the response for new images is successfully developed.
 
-<img width="461" height="375" alt="image" src="https://github.com/user-attachments/assets/a508a1a5-f296-4628-9cdd-e5cb6f8edd6c" />
